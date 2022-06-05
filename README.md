@@ -2,10 +2,10 @@
 Exponential glowing setup for Lens Studio that makes blooms/glows easy to set up.  
 Works with multiple Cameras/Render Targets!
 
-As seen in the Asset Library, and in [this tweet (comparison between Lens Studio Bloom and Cinematic Glow](https://twitter.com/gospookyhq/).
+As seen in the Asset Library, and in [this tweet](https://twitter.com/gospookyhq/).
 
-This setup is slightly more complex and requires basic shader knowledge.  
-However, the result is much better than Lens Studio's own Bloom asset, and it's better for performance as it doesn't require you to make a duplicate of all the objects in your scene.
+The result looks better than Lens Studio's own Bloom asset, and it is better for performance (and more convenient to use) as it doesn't require you to make a duplicate of all the objects in your scene.  
+However, this setup is slightly more complex and requires basic shader knowledge.
 
 <br/><br/>
   
