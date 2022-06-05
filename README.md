@@ -8,6 +8,10 @@ The result looks better than Lens Studio's own Bloom asset, and it is better for
 However, this setup is slightly more complex and requires basic shader knowledge.
 
 <br/><br/>
+
+<img src="https://github.com/ar-gospooky/LensStudio-CinematicGlow/blob/main/Media/cinematic_glow.png" width="400">
+
+<br/><br/>
   
 # How to use
 When the Cinematic Glow LSO is added to your project, create a new Render Target. This Render Target will be the combined render of your scene + glow.
