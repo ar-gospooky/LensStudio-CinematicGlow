@@ -39,3 +39,11 @@ Apply this Render Target and your scene's camera to Cinematic Glow.
 You're done! From here on, you can make any material or VFX asset glow by accessing the 'Color Pass 1' input in it.
 <br/>
 <img src="https://github.com/ar-gospooky/LensStudio-CinematicGlow/blob/main/Media/color_target_1.png" width="400">
+
+
+<br/><br/>
+
+# Known issues
+Post Effects overwrite Color Pass 1. This means that any Post Effects in the same Render Layer as glows will make the glows look off.  
+Snap is looking into this, but in the meantime, try to place your Post Effects on a separate Render Layer.  
+Or: see the workaround that's inside the 'Multiple Cameras Setup' example project file!
