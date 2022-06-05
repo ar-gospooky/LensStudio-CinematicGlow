@@ -12,6 +12,12 @@ However, this setup is slightly more complex and requires basic shader knowledge
 <img src="https://github.com/ar-gospooky/LensStudio-CinematicGlow/blob/main/Media/cinematic_glow.png" width="400">
 
 <br/><br/>
+
+A comparison between Cinematic Glow (left) and Lens Studio's Bloom asset.  
+Cinematic Glow is brighter, and deals with thin glows better:  
+<img src="https://github.com/ar-gospooky/LensStudio-CinematicGlow/blob/main/Media/glow comparison 2.gif" width="200">
+
+<br/><br/>
   
 # How to use
 When the Cinematic Glow LSO is added to your project, create a new Render Target. This Render Target will be the combined render of your scene + glow.
