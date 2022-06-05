@@ -10,7 +10,7 @@ However, this setup is slightly more complex and requires basic shader knowledge
 <br/><br/>
   
 # How to use
-When Cinematic Glow is added to your project, create a new Render Target. This Render Target will be the combined render of your scene + glow.
+When the Cinematic Glow LSO is added to your project, create a new Render Target. This Render Target will be the combined render of your scene + glow.
 <br/>
 <img src="https://github.com/ar-gospooky/LensStudio-CinematicGlow/blob/main/Media/new_rt.png" width="400">
 <br/><br/>
